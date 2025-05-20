@@ -1,7 +1,7 @@
 # Superstore_USA_Analysis_Project
 # Data Science
 
-### Superstore USA Analysis Project
+### 📊 Superstore USA Analysis Project
 
 1) This project utilizes a Superstore USA Excel dataset containing three distinct sheets: Orders, Returns, and Users.
 2) The dataset provides a comprehensive view of retail operations, including order transactions, customer details, and return records.
